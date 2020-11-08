@@ -11,6 +11,7 @@ class App extends Component {
   }
 
   showModal = () => {
+    console.log('clik')
     this.setState({ isModalOpen: true })
   }
 
