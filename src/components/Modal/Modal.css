@@ -14,12 +14,12 @@
 }
 
 .ModalClosed {
-    animation: closeModal 500ms ease-out forwards;
+    animation: closeModal 1000ms ease-out forwards;
     pointer-events: none;
 }
 
 .ModalOpen {
-    animation: openModal 500ms ease-out forwards;
+    animation: openModal 400ms ease-out forwards;
     pointer-events: auto;
 }
 
